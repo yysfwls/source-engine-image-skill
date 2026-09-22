@@ -1,0 +1,4 @@
+interface:
+  display_name: "Source 引擎低多边形影像"
+  short_description: "将照片重塑为早期 Source 引擎低多边形游戏截图质感"
+  default_prompt: "使用 $source-engine-low-poly 将这张照片改造成早期 Source 引擎低多边形游戏截图。"
