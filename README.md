@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="ChatGPT Image 2026年9月22日 18_47_40" src="https://github.com/user-attachments/assets/911f4a25-99ca-424f-a917-47bfedec1972" />
+<img width="1182" height="1330" alt="ChatGPT Image 2026年9月22日 19_03_26" src="https://github.com/user-attachments/assets/ddaaf0e2-b68b-49aa-b33d-2c345093806e" />
 # Source Engine Low Poly
 
 将照片或文字场景重塑为早期 Source 引擎风格的低多边形游戏截图，重点模拟 2000 年代 PC 游戏中的低面数模型、低分辨率贴图、粗糙 lightmap 和生硬实时光影。
